@@ -1,4 +1,5 @@
-# Excel_Project-Data_Analysis
- My projects demonstrating my Excel skills
+# Excel Project-Data Analysis
+ This repository is to demonstrate my Excel skills  
 
-I edited this on github.com
+## Salary Dashboard  
+
